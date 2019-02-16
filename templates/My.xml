@@ -1,9 +1,0 @@
-<templateSet group="My">
-  <template name="add" value="/**&#10; *@Author Zero&#10; *@Date $date$ $time$&#10; *@Description &#10; */" description="add comment" toReformat="false" toShortenFQNames="true">
-    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
-    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="OTHER" value="true" />
-    </context>
-  </template>
-</templateSet>
