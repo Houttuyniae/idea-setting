@@ -1,9 +1,9 @@
 package com.studyUtils.studyUtils.user.mapper.dao;
 
-import com.studyUtils.studyUtils.user.entity.User;
-import org.apache.ibatis.annotations.Mapper;
+        import com.studyUtils.studyUtils.user.mapper.extend.UserMapper;
+        import org.apache.ibatis.annotations.Mapper;
 
-
-public interface UserDao {
+@Mapper
+public interface UserDao extends UserMapper {
 
 }

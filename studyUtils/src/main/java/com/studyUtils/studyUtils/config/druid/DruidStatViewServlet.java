@@ -1,4 +1,4 @@
-package com.studyUtils.studyUtils.common.config.druid;
+package com.studyUtils.studyUtils.config.druid;
 
 import com.alibaba.druid.support.http.StatViewServlet;
 
