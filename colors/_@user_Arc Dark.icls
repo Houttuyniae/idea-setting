@@ -4,7 +4,7 @@
     <property name="created">2019-02-16T13:58:16</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.3.3.0.0</property>
-    <property name="modified">2020-05-08T22:30:24</property>
+    <property name="modified">2020-05-08T23:20:43</property>
     <property name="originalScheme">Arc Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -57,8 +57,8 @@
     <option name="RIGHT_MARGIN_COLOR" value="2b2e39" />
     <option name="SELECTED_INDENT_GUIDE" value="80cbc4" />
     <option name="SELECTED_TEARLINE_COLOR" value="99b89d" />
-    <option name="SELECTION_BACKGROUND" value="444773" />
-    <option name="SELECTION_FOREGROUND" value="ffffff" />
+    <option name="SELECTION_BACKGROUND" value="3e4f58" />
+    <option name="SELECTION_FOREGROUND" value="729baa" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="404552" />
     <option name="TEARLINE_COLOR" value="393a3c" />
     <option name="TOOLTIP" value="262b33" />
