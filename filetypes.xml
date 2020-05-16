@@ -1,0 +1,16 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="AbstractChainHandler" type="CLASS" />
+      <mapping pattern="FileUploadType" type="CLASS" />
+      <mapping pattern="BaseMapper" type="JAVA" />
+      <mapping pattern="enc_private" type="PLAIN_TEXT" />
+      <mapping pattern="enc_public" type="PLAIN_TEXT" />
+      <mapping ext="propertites" type="PLAIN_TEXT" />
+      <mapping pattern="db" type="Properties" />
+      <mapping pattern="UserMapper" type="XML" />
+      <mapping pattern="applicationContext-dao" type="XML" />
+      <mapping pattern="sqlMapConfig" type="XML" />
+    </extensionMap>
+  </component>
+</application>
